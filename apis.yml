@@ -9,6 +9,17 @@ description: 'Bonnet is a UK-based electric vehicle (EV) charging app that aggre
   for businesses. Surfaced as a portfolio company of gv and lightspeed-venture-partners
   and added to the API Evangelist network. Bonnet publishes a consumer mobile app but
   no public developer API at this time.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
