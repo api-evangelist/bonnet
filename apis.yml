@@ -59,6 +59,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/ovo-energy/
+  name: OVO Energy
+  x-relationship: acquired
+  x-evidence: "Headquartered in Bristol and acquired by OVO Energy, it gives consumers real-time charger status, route planning, membership plans with per-charge savings, and weekly charging-credit rewards, while offering charge point operator (CPO) and f"
 - type: DomainSecurity
   url: security/bonnet-domain-security.yml
 - type: Website
