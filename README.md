@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bonnet is a company surfaced as a portfolio company of gv, lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Bonnet is a UK-based electric vehicle (EV) charging app that aggregates multiple charging networks into a single platform, letting drivers find, access, and pay for chargers across Europe through one membership. Headquartered in Bristol and acquired by OVO Energy, it gives consumers real-time charger status, route planning, membership plans with per-charge savings, and weekly charging-credit rewards, while offering charge point operator (CPO) and fleet solutions with white-label integration for businesses. Surfaced as a portfolio company of gv and lightspeed-venture-partners and added to the API Evangelist network. Bonnet publishes a consumer mobile app but no public developer API at this time.
 
-Backed by: gv, lightspeed-venture-partners — http://joinbonnet.com
+**Areas:** Company · Consumer · Electric Vehicles · EV Charging · Energy · Mobility · Transportation · Sustainability
+
+## Bonnet on APIs.io
+
+Everything profiled for Bonnet is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bonnet/](https://apis.io/providers/bonnet/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bonnet Domain Security](https://apis.io/security/bonnet/bonnet-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.joinbonnet.com)
+- [Pricing](https://www.joinbonnet.com/pricing)
+- [Support](https://bonnet.upvoty.com)
+- [Blog](https://www.joinbonnet.com/blog)
+- [Terms of service](https://www.joinbonnet.com/terms-conditions)
+- [Privacy policy](https://www.joinbonnet.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 31.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.5** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bonnet/](https://apis.io/providers/bonnet/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bonnet: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bonnet/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
